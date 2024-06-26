@@ -16,7 +16,10 @@
 	python add_spaces.py /path/to/file
 ```
 
-## 更新历史  
+## 更新历史
+### 更新时间：2024-06-26
+  - 註解改成繁體中文
+  - 代碼改成支援 python 3.6 以上
 ### 更新时间：2016-08-28
   - 支持对中文里有粗体或斜体英文单词的语句的处理
   - 支持对中文里有粗体或斜体中文字词的语句的处理
@@ -91,8 +94,7 @@
 
 > 刚刚买了一部 iPhone ，好开心！
 
-## [贡献](./Contributing.md)
-
 ## 参考
 
+- [原作者](https://github.com/robot527/add-spaces)
 - [中文文案排版指北](https://github.com/LCTT/TranslateProject/blob/master/%E4%B8%AD%E6%96%87%E6%8E%92%E7%89%88%E6%8C%87%E5%8C%97.md#%E4%B8%AD%E8%8B%B1%E6%96%87%E4%B9%8B%E9%97%B4%E9%9C%80%E8%A6%81%E5%A2%9E%E5%8A%A0%E7%A9%BA%E6%A0%BC)
